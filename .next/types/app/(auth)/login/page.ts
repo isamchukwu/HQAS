@@ -1,4 +1,4 @@
-// File: /home/hp/Documents/Projects/Smart_Quotation/HQAS/app/(auth)/login/page.tsx
+// File: C:\Users\Testing\Documents\Herrycon_Projects\HQAS\app\(auth)\login\page.tsx
 import * as entry from '../../../../../app/(auth)/login/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
