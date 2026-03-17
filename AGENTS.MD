@@ -20,3 +20,10 @@ HQAS - HERRYCON QUOTATION SYSTEM.
 - Do not remove working code unless necessary
 - After every change, run lint and report issues
 - Summarize changed files
+
+## UI rules
+- Prefer a professional internal business app style
+- Use consistent spacing, cards, headers, and navigation
+- Keep pages responsive on mobile and desktop
+- Do not change pricing or quote-number logic during UI tasks
+- For UI work, first inspect existing routes and components before editing
